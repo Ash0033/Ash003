@@ -8,5 +8,5 @@ for(int i=0; i<size; i++){
     j=j^arr[i];
 }
 std::cout<<j<<std::endl;
-return 0;
+return 0; 
 }
